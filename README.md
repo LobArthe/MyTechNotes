@@ -18,8 +18,8 @@ My personal collection of software, apps, tools, optimizations, and other useful
   | AIO | [MSI cooler MAG 240](https://fr.msi.com/Liquid-Cooling/MAG-CORELIQUID-240R-V2) |
 | Souris | [LAMZU MAYA X 8k](https://lamzu.com/products/lamzu-maya-x) |
   | Tapis | [LAMZU MAYA Cloth](https://lamzu.com/products/lamzu-maya-mouse-pad) |
-  | Ecran x2 | [Samsung Odyssey G7 2K-1440p](https://www.samsung.com/ch_fr/support/model/LC27G75TQSRXEN/#downloads) [AOC 24G2U/BK](https://www.aoc.com/lu/gaming/monitors/24g2u_bk)|
+  | Ecran x2 | [Samsung Odyssey G7 2K-1440p](https://www.samsung.com/ch_fr/support/model/LC27G75TQSRXEN/#downloads) - [AOC 24G2U/BK](https://www.aoc.com/lu/gaming/monitors/24g2u_bk)|
   | Clavier | [NuPhyX BH65](https://nuphy.com/collections/hall-effect-keyboards/products/bh65?variant=42342288752749) |
-  | Tapis x3 | [LAMZU MAYA Cloth](https://lamzu.com/products/lamzu-maya-mouse-pad) | [LAMZU MAYA Glass](https://lamzu.com/products/lamzu-maya-glass-mousepad) |  [Wallhack SP-005](https://wallhack.com/en-fr/products/sp-005-black) |
+| Tapis x3 | [LAMZU MAYA Cloth](https://lamzu.com/products/lamzu-maya-mouse-pad) - [LAMZU MAYA Glass](https://lamzu.com/products/lamzu-maya-glass-mousepad) - [Wallhack SP-005](https://wallhack.com/en-fr/products/sp-005-black) |
 
 </details>
