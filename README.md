@@ -2,11 +2,14 @@
 My personal collection of software, apps, tools, optimizations, and other useful discoveries, shared for reference
 # Under construction
 
-## 🎵 Spotify status
+### 🎵 Spotify status
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6983iqreh7ww4us5vbgsnvord&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+
+
+
 <details>
-  <summary><b>🖥️ Ma configuration de PC</b></summary>
+  <summary><b><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20"/> Ma configuration de PC</b></summary>
   <br/>
 
   | PC | W11 [SapphireOS](https://github.com/HickerDicker/SapphireOS) opti via [Aysafromnazareth](https://x.com/Afromnazareth?lang=en) |
@@ -22,3 +25,4 @@ My personal collection of software, apps, tools, optimizations, and other useful
   | Clavier | [NuPhyX BH65](https://nuphy.com/collections/hall-effect-keyboards/products/bh65?variant=42342288752749) |
 
 </details>
+
