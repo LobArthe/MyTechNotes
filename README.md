@@ -9,7 +9,7 @@ My personal collection of software, apps, tools, optimizations, and other useful
   <summary><b>🖥️ Ma configuration de PC</b></summary>
   <br/>
 
-  | PC | W11 [SapphireOS](https://github.com/HickerDicker/SapphireOS) opti via Aysafromnasareth |
+  | PC | W11 [SapphireOS](https://github.com/HickerDicker/SapphireOS) opti via Aysafromnazareth |
   | --- | --- |
   | CM | [MSI PRO Z690-A DDR4](https://fr.msi.com/Motherboard/PRO-Z690-A-DDR4/Overview) |
   | CPU | [Intel Core i9-14900KF-Undervolt](https://www.intel.fr/content/www/fr/fr/products/sku/236787/intel-core-i9-processor-14900kf-36m-cache-up-to-6-00-ghz/specifications.html) |
