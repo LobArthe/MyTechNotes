@@ -30,7 +30,7 @@ My personal collection of software, apps, tools, optimizations, and other useful
 </details>
 
 <details>
-  <summary><b> Logiciel pc </b></summary>
+  <summary><b> Application </b></summary>
   <br/>
 
 </details>
