@@ -35,3 +35,17 @@ My personal collection of software, apps, tools, optimizations, and other useful
 
 </details>
 
+
+
+
+<details>
+  <summary><b> Apple IOS </b></summary>
+  <br/>
+
+</details>
+
+<details>
+  <summary><b> Android </b></summary>
+  <br/>
+
+</details>
