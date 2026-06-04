@@ -29,4 +29,9 @@ My personal collection of software, apps, tools, optimizations, and other useful
 
 </details>
 
+<details>
+  <summary><b>"width="20"/> Logiciel pc </b></summary>
+  <br/>
+
+</details>
 
