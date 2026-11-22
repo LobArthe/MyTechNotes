@@ -1,14 +1,14 @@
 # MyTechNotes
 
-## 📚 Sommaire des ressources
+## Sommaire des ressources
 
 Bienvenue sur **MyTechNotes** : un point d'entrée pour trouver rapidement des solutions de dépannage, des tutoriels et des découvertes de logiciels.
 
 | Rubrique | Contenu |
 | --- | --- |
-| 🛠️ [Guides de dépannage](guides/README.md) | Procédures, diagnostics et solutions expliquées |
-| 📝 [Modèle de tutoriel](guides/MODELE-GUIDE.md) | Un format simple pour rédiger ou proposer un nouveau guide |
-| 🧰 [Outils et découvertes](#-outils--découvertes) | Sélection d'outils présentée directement ci-dessous ; [catalogue détaillé](outils/README.md) |
+| [Guides de dépannage](guides/README.md) | Procédures, diagnostics et solutions expliquées |
+| [Modèle de tutoriel](guides/MODELE-GUIDE.md) | Un format simple pour rédiger ou proposer un nouveau guide |
+| [Outils et découvertes](#outils-et-découvertes) | Sélection d'outils présentée directement ci-dessous ; [catalogue détaillé](outils/README.md) |
 
 ### Comment ça fonctionne ?
 
@@ -17,27 +17,50 @@ Les **découvertes** sont présentées directement sur cette page. Les tutoriels
 
 ---
 
-## 🧰 Outils & découvertes
+## Outils et découvertes
 
-Une petite sélection de projets pour **comprendre, diagnostiquer et améliorer son expérience sur PC**. Clique sur le nom pour consulter la source officielle.
+Une sélection de logiciels et projets utiles pour les périphériques, le diagnostic et les performances sur PC. Les liens mènent vers les pages des développeurs.
 
-### 🖱️ Souris & périphériques
+### Périphériques et souris
 
-| Projet | Description | Accès |
-| :--- | :--- | :---: |
-| **InputLab** | Analyse la régularité des signaux de souris et manettes, les intervalles entre rapports, le polling rate et certains facteurs USB. **Code source non publié** : application distribuée sous forme binaire. | [GitHub](https://github.com/moneks1106-code/InputLab) |
-| **OpenMouse** | Interface web pour ajuster les paramètres de certaines souris compatibles, notamment DPI et fréquence d'interrogation. Les fonctionnalités varient selon le modèle. | [Site officiel](https://openmouse.app/) |
+<table>
+  <tr>
+    <td width="76" align="center"><strong>IL</strong></td>
+    <td>
+      <strong><a href="https://github.com/moneks1106-code/InputLab">InputLab</a></strong><br/>
+      Analyse la régularité des signaux des souris et manettes, les intervalles entre rapports et certains facteurs USB.<br/>
+      <sub>Windows · Utilitaire gratuit · Binaire uniquement, code source non publié</sub>
+    </td>
+    <td align="center"><a href="https://github.com/moneks1106-code/InputLab">Dépôt</a></td>
+  </tr>
+  <tr>
+    <td width="76" align="center"><img src="https://raw.githubusercontent.com/OpenMouse-Project/openmouse/main/public/logo.png" width="54" alt="Logo OpenMouse"/></td>
+    <td>
+      <strong><a href="https://openmouse.app/">OpenMouse</a></strong><br/>
+      Permet de régler les paramètres de souris compatibles, notamment les DPI et la fréquence d'interrogation, depuis le navigateur.<br/>
+      <sub>Web · Open source · Compatibilité selon le modèle</sub>
+    </td>
+    <td align="center"><a href="https://openmouse.app/">Site</a></td>
+  </tr>
+</table>
 
-### 🎮 Performances & jeux
+### Performances et jeux
 
-| Projet | Description | Accès |
-| :--- | :--- | :---: |
-| **SCSKiller** | Précompile les shaders de certains jeux dans le cache du pilote graphique afin de réduire les saccades liées à leur compilation ; les résultats varient selon le jeu et le GPU. | [GitHub](https://github.com/BlueHeisenberg/SCSKiller) |
+<table>
+  <tr>
+    <td width="76" align="center"><img src="https://raw.githubusercontent.com/BlueHeisenberg/SCSKiller/main/.github/assets/logo.png" width="54" alt="Logo SCSKiller"/></td>
+    <td>
+      <strong><a href="https://github.com/BlueHeisenberg/SCSKiller">SCSKiller</a></strong><br/>
+      Prépare le cache de shaders de certains jeux afin de réduire les saccades causées par leur compilation.<br/>
+      <sub>Windows · Open source · Résultats variables selon les jeux et pilotes</sub>
+    </td>
+    <td align="center"><a href="https://github.com/BlueHeisenberg/SCSKiller">Dépôt</a></td>
+  </tr>
+</table>
 
-> [!NOTE]
-> Les descriptions résument les objectifs annoncés par les projets, **sans audit indépendant**. Vérifie la compatibilité et les sources avant installation. Pour SCSKiller, évite les fonctions d'enregistrement dans les jeux protégés par un anti-triche : elles peuvent présenter des risques.
+<sub>Note : la pastille « IL » est un repère typographique, pas le logo officiel d'InputLab. Ces descriptions ne constituent pas un audit de sécurité. Les fonctions d'enregistrement de SCSKiller peuvent présenter des risques avec les anti-triches ; consulter la documentation avant toute utilisation.</sub>
 
-[📂 Consulter le catalogue et les précautions détaillées](outils/README.md)
+[Consulter le catalogue détaillé](outils/README.md)
 
 ---
 
