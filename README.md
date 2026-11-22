@@ -1,4 +1,21 @@
 # MyTechNotes
+
+## 📚 Sommaire des ressources
+
+Bienvenue sur **MyTechNotes** : un point d'entrée pour trouver rapidement des solutions de dépannage, des tutoriels et des découvertes de logiciels.
+
+| Rubrique | Contenu |
+| --- | --- |
+| 🛠️ [Guides de dépannage](guides/README.md) | Procédures, diagnostics et solutions expliquées |
+| 📝 [Modèle de tutoriel](guides/MODELE-GUIDE.md) | Un format simple pour rédiger ou proposer un nouveau guide |
+| 🧰 [Outils et découvertes GitHub](outils/README.md) | Logiciels utiles, projets open source et précautions |
+
+### Comment ça fonctionne ?
+
+Chaque rubrique renvoie vers un fichier Markdown dédié. Pour publier un nouveau guide, crée un fichier `.md` dans `guides/`, puis ajoute son lien au sommaire de [la rubrique Guides](guides/README.md). Le README principal reste ainsi clair, même lorsque la bibliothèque grandit.
+
+---
+
 My personal collection of software, apps, tools, optimizations, and other useful discoveries, shared for reference
 # Under construction
 
