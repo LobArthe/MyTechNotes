@@ -8,11 +8,36 @@ Bienvenue sur **MyTechNotes** : un point d'entrée pour trouver rapidement des s
 | --- | --- |
 | 🛠️ [Guides de dépannage](guides/README.md) | Procédures, diagnostics et solutions expliquées |
 | 📝 [Modèle de tutoriel](guides/MODELE-GUIDE.md) | Un format simple pour rédiger ou proposer un nouveau guide |
-| 🧰 [Outils et découvertes GitHub](outils/README.md) | Logiciels utiles, projets open source et précautions |
+| 🧰 [Outils et découvertes](#-outils--découvertes) | Sélection d'outils présentée directement ci-dessous ; [catalogue détaillé](outils/README.md) |
 
 ### Comment ça fonctionne ?
 
-Chaque rubrique renvoie vers un fichier Markdown dédié. Pour publier un nouveau guide, crée un fichier `.md` dans `guides/`, puis ajoute son lien au sommaire de [la rubrique Guides](guides/README.md). Le README principal reste ainsi clair, même lorsque la bibliothèque grandit.
+Les **découvertes** sont présentées directement sur cette page. Les tutoriels plus longs restent dans des fichiers Markdown : crée un fichier `.md` dans `guides/`, puis ajoute son lien à [l'index des guides](guides/README.md).
+
+
+---
+
+## 🧰 Outils & découvertes
+
+Une petite sélection de projets pour **comprendre, diagnostiquer et améliorer son expérience sur PC**. Clique sur le nom pour consulter la source officielle.
+
+### 🖱️ Souris & périphériques
+
+| Projet | Description | Accès |
+| :--- | :--- | :---: |
+| **InputLab** | Analyse la régularité des signaux de souris et manettes, les intervalles entre rapports, le polling rate et certains facteurs USB. **Code source non publié** : application distribuée sous forme binaire. | [GitHub](https://github.com/moneks1106-code/InputLab) |
+| **OpenMouse** | Interface web pour ajuster les paramètres de certaines souris compatibles, notamment DPI et fréquence d'interrogation. Les fonctionnalités varient selon le modèle. | [Site officiel](https://openmouse.app/) |
+
+### 🎮 Performances & jeux
+
+| Projet | Description | Accès |
+| :--- | :--- | :---: |
+| **SCSKiller** | Précompile les shaders de certains jeux dans le cache du pilote graphique afin de réduire les saccades liées à leur compilation ; les résultats varient selon le jeu et le GPU. | [GitHub](https://github.com/BlueHeisenberg/SCSKiller) |
+
+> [!NOTE]
+> Les descriptions résument les objectifs annoncés par les projets, **sans audit indépendant**. Vérifie la compatibilité et les sources avant installation. Pour SCSKiller, évite les fonctions d'enregistrement dans les jeux protégés par un anti-triche : elles peuvent présenter des risques.
+
+[📂 Consulter le catalogue et les précautions détaillées](outils/README.md)
 
 ---
 
